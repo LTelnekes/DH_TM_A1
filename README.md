@@ -1,5 +1,8 @@
 
 # Presidential Crisis Communication During Natural Disasters in the 21st Century
+![p103112ps-1368](https://github.com/LTelnekes/Tools_Methods/assets/150801777/b74274de-f9ae-47bb-9c76-7deac789d3f4)
+[President Barack Obama hugs Donna Vanzant, the owner of North Point Marina, as he tours damage from Hurricane Sandy in Brigantine, N.J., Oct. 31, 2012. (Official White House Photo by Pete Souza)](https://obamawhitehouse.archives.gov/blog/2012/10/31/president-obama-new-jersey-we-are-here-you)
+
 
 ### Context
 Considering my background in (North) American Studies, I have always been interested in American presidents, especially their rhetoric. Last year, I wrote my MA Thesis on American identity in the post-domestic-terror crisis rhetroric of President Trump. During a thesis meeting, me and my supervisor discussed how this influences public perception; however, as that was not the scope of my project, no official research on this was conducted. This inspired me for this project, but I decided to pick a different lens; namely, natural disasters which I believe are very relevant in this time and age. Different presidents in the 21st century have had to face different national disasters on American ground such as hurricanes, tornados, and wildifres. These have been significant to the U.S. and have posed complex challenges for presidents.
@@ -8,8 +11,8 @@ Focusing on times of crises in particular, presidents communicate in a form of e
 
 I want to research how U.S. Presidents strategically communicated during natural disasters in the 21st century, to find out  what impact did this communication have on public approval rating, to test if the claims made in 1970 by Mueller are still relevant. 
 
-### Research Question
-How did U.S. Presidents strategically communicate during natural disasters in the 21st century and what impact did this communication have on public approval rating? Is Mueller's claim that the "rally round the flag" phenomenon and the presidential epideictic speech which is connected to this still relevant in the current political crisis climate? 
+### Research question
+How did U.S. Presidents strategically communicate during natural disasters in the 21st century and what impact did this communication have on public approval ratings? Is Mueller's claim that the "rally round the flag" phenomenon and the presidential epideictic speech which is connected to this still relevant in the current political crisis climate? 
 
 Considering Bush's increased approval rating following 9/11 and the importance of natural disaster management, I think there there is a big chance that Mueller's claim is still relevant and that public approval rates are positively influenced by natural disasters reponse by Presidents.
 
@@ -21,3 +24,9 @@ I would need the transcripts of the speeches following natural disasters in the 
 
 ### Tools
 I could use Python to find keywords, or make statistical analyses about approval rating. Maybe I could use programs to assist me with the reading of my transcripts. 
+
+## Sources
+- Beasley, V. B. (2004). You, the People: American National Identity in Presidential Rhetoric (Issue 10). Texas A&M University Press; eBook Collection (EBSCOhost). http://search.ebscohost.com.proxy-ub.rug.nl/login.aspx?direct=true&db=nlebk&AN=421464&site=ehost-live&scope=site
+- Campbell, K. K., & Jamieson, K. H. (2008). National Eulogies. In Presidents Creating the Presidency: Deeds Done in Words. The University of Chicago Press.
+y-ub.rug.nl/login.aspx?direct=true&db=nlebk&AN=421464&site=ehost-live&scope=site
+- Mueller, J. E. (1970). Presidential Popularity from Truman to Johnson. The American Political Science Review, 64(1), 18–34. https://doi.org/10.2307/1955610
